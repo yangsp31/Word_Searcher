@@ -4,9 +4,16 @@
     "web": {
       "bundler": "metro"
     },
+
+    "splash" : {
+      "image": "./app/component/assets/ThinkingStart.png",
+      "resizeMode": "cover"
+    },
+
     "plugins": [
       "expo-router"
     ],
+    
     "name": "Word_Searcher",
     "slug": "Word_Searcher"
   }
